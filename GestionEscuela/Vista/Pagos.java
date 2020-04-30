@@ -22,7 +22,7 @@ public class Pagos extends JPanel {
 	private static final Color FOREGROUND_LABEL = new Color(57,113,177);
 	private JTextField txtAlumno;
 	private JButton btnAlumno;
-	private ControladorPagos controladorPagos;
+	//private ControladorPagos controladorPagos;
 	private JTextArea textArea;
 
 	
@@ -62,7 +62,7 @@ public class Pagos extends JPanel {
 		btnAlumno.setForeground(Color.WHITE);
 		btnAlumno.setBackground(new Color(126,87,194));
 		panel.add(btnAlumno);
-		controladorPagos= new ControladorPagos(this);
+		//controladorPagos= new ControladorPagos(this);
 		
 		textArea = new JTextArea();
 		textArea.setFont(new Font("Monospaced", Font.BOLD, 13));

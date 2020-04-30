@@ -7,12 +7,6 @@
 	<classpathentry kind="src" path="Controlador"/>
 	<classpathentry kind="src" path="Imagenes"/>
 	<classpathentry excluding="src/|Modelo/|Vista/|Controlador/|Imagenes/" kind="src" path=""/>
-	<classpathentry kind="lib" path="C:/Users/DAM1-JONANDERC/Downloads/ojdbc8-12.2.0.1.jar"/>
 	<classpathentry kind="lib" path="org.eclipse.jdt.annotation_2.2.400.v20191120-1313.jar"/>
-	<classpathentry kind="lib" path="C:/Users/DAM1-JONANDERC/Desktop/java-json.jar"/>
-	<classpathentry kind="lib" path="C:/Users/DAM1-JONANDERC/Desktop/org.json.jar"/>
-	<classpathentry kind="lib" path="C:/Users/DAM1-JONANDERC/Desktop/json-20190722.jar"/>
-	<classpathentry kind="lib" path="C:/Users/DAM1-JONANDERC/Desktop/javassist-3.22.0-GA.jar"/>
-	<classpathentry kind="lib" path="C:/Users/DAM1-JONANDERC/Desktop/json-iterator-0.9.21.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
